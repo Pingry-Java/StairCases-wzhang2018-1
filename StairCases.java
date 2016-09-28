@@ -1,5 +1,5 @@
 /**
- * Write javadoc for your class here (and remove this comment, or course)
+ * Write javadoc for your class here (and remove this comment, of course)
  *
  */
 
